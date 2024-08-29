@@ -1,0 +1,52 @@
+C:\Users\abc\Desktop\ims\ims\bin\Debug\ims.exe.config
+C:\Users\abc\Desktop\ims\ims\bin\Debug\ims.exe
+C:\Users\abc\Desktop\ims\ims\bin\Debug\ims.pdb
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.csproj.AssemblyReference.cache
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.HomeScreen.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.login.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.MDI.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Properties.Resources.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Sample.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Sample2.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.setting.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.Users.resources
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.exe
+C:\Users\abc\Desktop\ims\ims\obj\Debug\ims.pdb
+C:\Users\The One\source\repos\ims\ims\bin\Debug\ims.exe.config
+C:\Users\The One\source\repos\ims\ims\bin\Debug\ims.exe
+C:\Users\The One\source\repos\ims\ims\bin\Debug\ims.pdb
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.csproj.AssemblyReference.cache
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.HomeScreen.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.login.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.MDI.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Products.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Properties.Resources.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Sample.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Sample2.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.setting.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.Users.resources
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.csproj.GenerateResource.cache
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.csproj.CoreCompileInputs.cache
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.exe
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.pdb
+C:\Users\The One\source\repos\ims\ims\obj\Debug\ims.categories.resources
+C:\Users\The One\source\repos\ims\bin\Debug\ims.exe.config
+C:\Users\The One\source\repos\ims\bin\Debug\ims.exe
+C:\Users\The One\source\repos\ims\bin\Debug\ims.pdb
+C:\Users\The One\source\repos\ims\obj\Debug\ims.csproj.AssemblyReference.cache
+C:\Users\The One\source\repos\ims\obj\Debug\ims.categories.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.HomeScreen.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.login.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.MDI.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.Products.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.Properties.Resources.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.Sample.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.Sample2.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.setting.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.Users.resources
+C:\Users\The One\source\repos\ims\obj\Debug\ims.csproj.GenerateResource.cache
+C:\Users\The One\source\repos\ims\obj\Debug\ims.csproj.CoreCompileInputs.cache
+C:\Users\The One\source\repos\ims\obj\Debug\ims.exe
+C:\Users\The One\source\repos\ims\obj\Debug\ims.pdb
